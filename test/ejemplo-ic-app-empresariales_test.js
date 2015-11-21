@@ -1,3 +1,5 @@
+'use strict';
+
 var ejemploIcAppEmpresariales = require('../');
 var assert = require('should');
 
